@@ -1,0 +1,12 @@
+[VALIDATE_1]
+###Rule
+regex-substring
+
+###Question
+Open your `neo-app.json` file and paste its content here.
+
+###Match
+      "path": "/public/aa/movielens/cds/data.xsodata",
+      "target": {
+        "type": "destination",
+        "name": "movielens"
