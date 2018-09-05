@@ -10,3 +10,5 @@ Open your `neo-app.json` file and paste its content here.
       "target": {
         "type": "destination",
         "name": "movielens"
+      },
+[VALIDATE_1]
